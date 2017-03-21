@@ -1,25 +1,10 @@
-# ReduxSimpleStarter
+# ReduxBookList
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A simple book list app. Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-###Getting Started###
+# This is a learn redux project
 
-There are two methods for getting started with this repo.
+The key of this repo is for me to learn about redux by building a book list app. 🔫
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+---
+Kind regards, Vedran.

@@ -4,6 +4,7 @@
     "html.format.wrapAttributes": "force-aligned",
 
     "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": true,
+    "javascript.format.insertSpaceBeforeAndAfterBinaryOperators": true,
     "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
     "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
     "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false,
@@ -21,7 +22,7 @@
 
     "files.eol": "\r\n",
     "files.associations": {
-        "**/src/components/*.js": "javascriptreact",
+        "**/src/*/*.js": "javascriptreact",
         "**/src/*.js": "javascriptreact"
     }
 }
